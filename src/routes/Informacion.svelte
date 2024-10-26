@@ -1,7 +1,7 @@
 <script>
 	import photoinfo from '../images/info.jpg';
 
-    const texto = `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis temporibus distinctio earum excepturi impedit saepe commodi, soluta eos, omnis at aspernatur natus ipsum dolorem alias sed.!`
+    const texto = `Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis temporibus distinctio earum excepturi impedit saepe commodi, soluta eos, omnis at aspernatur natus ipsum dolorem alias sed.`
 
     const titleInfo = `Información`
 </script>
