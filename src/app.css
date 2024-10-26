@@ -1,0 +1,26 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+
+:root{
+    color-scheme: light dark;
+    --primary : #000;
+    --secundary:#fff;
+    --azulito :  #1854a3;
+    --verde :  #83b67f;
+    --verdedos: #6ef174;
+    background: white;
+
+}
+h1 {
+    color: var(--azulito);
+    display: block;
+    text-align: center;
+    width: 100%;
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 20px;
+}
+
